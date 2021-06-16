@@ -1,2 +1,6 @@
 mohamed-version-1
+<<<<<<< HEAD
 danielle version-3
+=======
+Nelie-version-2
+>>>>>>> aacd35f708943a53bcd38111a667bd365830f770
