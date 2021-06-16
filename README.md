@@ -1,2 +1,2 @@
 # fun-night
-having fun with git
+having fun with git-1
